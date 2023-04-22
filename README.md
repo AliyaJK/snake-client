@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["Screenshot of the snake game"](/Users/aliyakanani/Desktop/Screen Shot 2023-04-21 at 9.13.55 PM.png)
-!["screenshot description"](#)
+!["Screenshot of the snake game"](https://user-images.githubusercontent.com/124295613/233754129-82fa3087-a91e-4fb5-8fe9-4ff61b940a1d.png)
+
 
 
 ## Getting Started
